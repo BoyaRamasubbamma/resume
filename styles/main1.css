@@ -1,6 +1,6 @@
 .flex{
   display: flex;
-  border: solid;
+  border:solid;
   flex-direction: column;
   width: 70%;
   vertical-align: middle;

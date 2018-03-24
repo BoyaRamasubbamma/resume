@@ -1,0 +1,23 @@
+{
+  "basics":{
+    "objective":"Establish my self in the field of fast growing SOFTWARE technology "
+  },
+  "education":[
+  {
+
+    "degree":"B.Tech(computer science of engineering)",
+    "college":"KVSW-Engineering college for women",
+    "data":["2015-19","82%"]
+},
+  {
+    "degree":"Intermediate",
+    "college":"A.P Model college",
+    "data":["2013-15","88%"]
+  },
+  {
+    "degree":"SSC",
+    "college":"Z.P.High School",
+    "data":["2012-13","90%"]
+  }
+]
+}
